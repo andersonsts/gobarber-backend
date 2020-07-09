@@ -1,0 +1,13 @@
+node_modules
+commands.txt
+functionalities.md
+notes.txt
+build/
+temp/
+.env
+coverage/
+ormconfig.json
+
+tmp/*
+!tmp/.gitkeep
+yarn.lock
